@@ -1,2 +1,2 @@
 # DevOps
-Repositório para práticas em DeOps - Impacta
+Repositório para práticas em DevOps - Impacta
